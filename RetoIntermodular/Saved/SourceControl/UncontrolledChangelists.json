@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Maps/MainIslandMap.umap",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/CanonMiniGame/BP_Bullets.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/CanonMiniGame/BP_Canon.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/CanonMiniGame/WBP_ExecuteAction.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/CanonMiniGame/BP_Range.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Maps/MainIslandLevel.umap",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/BP_Canon.uasset",
+				"C:/Users/1vrv/Documents/Unreal Projects/RetoIntermodular/Content/Blueprints/BP_Bullets.uasset"
+			]
+		}
+	]
+}
